@@ -1,0 +1,12 @@
+# Python Dependencies for Disaster Relief Distribution System
+# Design and Analysis of Algorithms Project
+
+# Data visualization
+matplotlib>=3.5.0
+networkx>=2.6.0
+
+# Table formatting for console output
+tabulate>=0.9.0
+
+# Note: No additional dependencies required for core algorithms
+# Dijkstra and Greedy algorithms use only Python standard library
