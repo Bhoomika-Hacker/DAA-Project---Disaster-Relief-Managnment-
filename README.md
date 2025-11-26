@@ -1,4 +1,4 @@
-# DAA-Project---Disaster-Relief-Managnment-
+**# DAA-Project---Disaster-Relief-Managnment-
 A Disaster Relief Hospital System is a coordinated medical response framework that ensures fast, organized, and effective treatment of victims during any disaster (natural or man-made). Its goal is to save maximum lives by providing immediate care, efficient resource use, and continuous communication.
 
 **🛡️ Aapda Setu — Disaster Relief Hospital Management System**
@@ -9,7 +9,8 @@ Aapda Setu is a unified disaster-response system designed to ensure fast, organi
 The system integrates real-time alerts, hospital capacity tracking, safe routes, geo-reports, and fundraiser verification—helping both citizens and authorities respond efficiently.
 
 **🚀 Key Features
-🔍 1. Detect**
+**
+🔍 1. Detect
 
 Real-time hazard detection powered by input streams from:
 IMD / CWC / NCS / USGS / ISRO
@@ -123,7 +124,7 @@ Ensuring optimum hospital resource distribution
 Enabling authorities to coordinate faster
 Empowering citizens with accurate, real-time information
 **
-📸 Screenshots**
+📸 Screenshots****
 <img width="1798" height="844" alt="image" src="https://github.com/user-attachments/assets/b42ecd76-0939-498d-9139-fe4126680a43" />
 <img width="1797" height="687" alt="image" src="https://github.com/user-attachments/assets/2c6fdda0-78d0-4189-88bc-47d0361af68a" />
 <img width="1812" height="841" alt="image" src="https://github.com/user-attachments/assets/07523e8a-79cc-4acd-9fb0-6491e03a05b2" />
